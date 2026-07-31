@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Anticuario — Cargar pieza</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="nav">
+        <span class="nav__logo">El Anticuario</span>
+        <div class="nav__right">
+            <a class="nav__link" href="index.html">← Volver al catálogo</a>
+        </div>
+    </nav>
+
+    <header class="hero hero--admin">
+        <span class="hero__eyebrow">Panel interno</span>
+        <h1 class="hero__title">Cargar pieza</h1>
+        <p class="hero__sub">Completá los datos, subí hasta 5 fotos y al final descargá el <code>piezas.json</code> actualizado para reemplazarlo en la carpeta del proyecto.</p>
+    </header>
+
+    <main class="admin">
+
+        <!-- ===== FORMULARIO ===== -->
+        <section class="admin__panel">
+            <h2 class="admin__panelTitle" id="formTitle">Nueva pieza</h2>
+
+            <form id="piezaForm" class="admin__form">
+                <div class="admin__row">
+                    <label class="admin__field">
+                        <span>N.º de artículo</span>
+                        <input type="number" id="fLote" min="1" required>
+                    </label>
+                    <label class="admin__field">
+                        <span>Categoría</span>
+                        <input type="text" id="fCategoria" placeholder="Ej: Muebles, Iluminación..." required>
+                    </label>
+                </div>
+
+                <div class="admin__row">
+                    <label class="admin__field admin__field--grow">
+                        <span>Título</span>
+                        <input type="text" id="fTitulo" placeholder="Ej: Reloj de péndulo en nogal" required>
+                    </label>
+                    <label class="admin__field">
+                        <span>Precio</span>
+                        <input type="text" id="fPrecio" placeholder="Ej: $ 85.000" required>
+                    </label>
+                </div>
+
+                <label class="admin__field">
+                    <span>Descripción</span>
+                    <textarea id="fDescripcion" rows="6" placeholder="Detalle, estado, medidas, procedencia..." required></textarea>
+                </label>
+
+                <label class="admin__field">
+                    <span>Fotos (hasta 5)</span>
+                    <input type="file" id="fFotos" accept="image/*" multiple>
+                </label>
+
+                <div class="admin__previews" id="previews"></div>
+
+                <div class="admin__actions">
+                    <button type="submit" class="admin__btn admin__btn--primary" id="submitBtn">Agregar pieza</button>
+                    <button type="button" class="admin__btn admin__btn--ghost" id="cancelBtn" hidden>Cancelar edición</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- ===== LISTA DE PIEZAS CARGADAS ===== -->
+        <section class="admin__panel">
+            <div class="admin__panelHead">
+                <h2 class="admin__panelTitle">Piezas del catálogo (<span id="totalCount">0</span>)</h2>
+                <div class="admin__panelActions">
+                    <button type="button" class="admin__btn admin__btn--small" id="reloadBtn">↺ Releer piezas.json</button>
+                    <button type="button" class="admin__btn admin__btn--small admin__btn--primary" id="downloadBtn">⬇ Descargar piezas.json</button>
+                </div>
+            </div>
+            <p class="admin__hint">Los cambios se guardan automáticamente en este navegador mientras trabajás. Cuando termines, descargá el archivo y reemplazalo en la carpeta del proyecto.</p>
+            <div class="admin__list" id="piezasList"></div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <span>Inventario · panel de carga</span>
+    </footer>
+
+    <script src="admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colección Privada — Inventario</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;500;600&family=Inter:wght@400;500&family=Space+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav class="nav">
+    <div class="nav__logo">Inventario <span style="font-size:0.7em; opacity:0.7; font-family:var(--font-body)">| Colección Privada</span></div>
+    <div class="nav__right">
+        <span id="navCount" class="nav__count">Cargando...</span>
+    </div>
+</nav>
+
+<header class="hero">
+    <span class="hero__eyebrow">Inventario Patrimonial</span>
+    <h1 class="hero__title">Acervo Familiar</h1>
+    <p class="hero__sub">
+        Selección de piezas rescatadas del patrimonio privado. 
+        Objetos con historia propia que buscan nuevos custodios. 
+        Catálogo en actualización permanente.
+    </p>
+</header>
+
+<main id="catalog" class="catalog">
+    <!-- Las piezas se cargan vía JS -->
+</main>
+
+<footer class="site-footer">
+    <div class="site-footer__inner">
+        <h2 class="site-footer__title">Consultas directas</h2>
+        <ul class="site-footer__list">
+            <li>
+                <span class="site-footer__label">WhatsApp</span>
+                <a href="https://wa.me/5491124850076" target="_blank">+54 9 11 2485-0076</a>
+            </li>
+            <li class="site-footer__sep">•</li>
+            <li>
+                <span class="site-footer__label">Correo electrónico</span>
+                <a href="mailto:haus.edelweiss.arg@gmail.com">haus.edelweiss.arg@gmail.com</a>
+            </li>
+        </ul>
+        <p class="site-footer__copy">© 2026 Inventario — Venta particular.</p>
+    </div>
+</footer>
+
+<!-- Modal -->
+<div id="modalOverlay" class="modal-overlay">
+    <div class="modal">
+        <button id="modalClose" class="modal__close" aria-label="Cerrar">✕</button>
+        <div class="modal__gallery">
+            <div class="modal__mainphoto">
+                <img id="modalImg" src="" alt="">
+                <button id="galPrev" class="modal__nav modal__nav--prev">‹</button>
+                <button id="galNext" class="modal__nav modal__nav--next">›</button>
+                <div id="galDots" class="modal__dots"></div>
+            </div>
+            <div id="modalThumbs" class="modal__thumbs"></div>
+        </div>
+        <div class="modal__stub"></div>
+        <div class="modal__sheet">
+            <div class="modal__sheetTop">
+                <span id="modalLot" class="modal__lot">Art. --</span>
+                <span id="modalCategoria" class="modal__badge">Categoría</span>
+            </div>
+            <h2 id="modalTitle" class="modal__title">Título</h2>
+            <p id="modalPrice" class="modal__price">Precio</p>
+            
+            <div id="modalDetails" class="modal__details"></div>
+            
+            <p id="modalDesc" class="modal__desc">Descripción...</p>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
