@@ -373,7 +373,7 @@
     "imagenes": ["img/37-1.jpeg"],
     "titulo": "Juego de Living Estilo Luis XV: Sofá, 2 Sillones y Mesa Ratona",
     "categoria": "Muebles / Living",
-    "precio": "$ A definir",
+    "precio": "USD 900",
     "descripcion": "Conjunto de living tapizado estilo Luis XV/Provenzal, en terciopelo marrón con capitoné (botonado) en los respaldos. Incluye:\n- 1 sofá de 3 cuerpos.\n- 2 sillones (bergère) a juego.\n- 1 mesa ratona (mesa de centro) con tapa de mármol y base de madera tallada.\n\nESTADO:\nBuen estado general de tapizado y estructura de madera.\n\nNota: las lámparas de pie, la mesa auxiliar lateral y los cuadros que se ven en la foto de ambientación no forman parte de este lote.",
     "materiales": "Madera tallada, tapizado en terciopelo, tapa de mármol (mesa ratona)",
     "estilo": "Luis XV / Provenzal"
@@ -383,7 +383,7 @@
     "imagenes": ["img/38-1.jpeg"],
     "titulo": "Centro de Mesa en Cristal Tallado Azul Cobalto con Asas de Dragón en Bronce",
     "categoria": "Cristalería / Objetos Decorativos",
-    "precio": "$ A definir",
+    "precio": "USD 200",
     "descripcion": "Bowl/centro de mesa en cristal tallado estilo bohemio, con capa de color azul cobalto tallada a la rueda dejando ver el cristal transparente (motivos de óvalos, rombos y cruces). Montura de bronce dorado con asas laterales en forma de cabeza de dragón alado. Apoya sobre bandeja de bronce dorado a juego, con borde festoneado y pequeñas patas.\n\nESTADO:\nBuen estado, cristal íntegro sin saltaduras visibles.",
     "materiales": "Cristal tallado (bohemio), bronce dorado",
     "estilo": "Bohemio / Victoriano"
@@ -393,7 +393,7 @@
     "imagenes": ["img/39-1.jpeg"],
     "titulo": "Figura de Cisne Decorativo con Alas de Cristal Facetado",
     "categoria": "Decoración / Objetos de Colección",
-    "precio": "$ A definir",
+    "precio": "USD 70",
     "descripcion": "Pequeña figura de cisne en metal plateado con acabado dorado en pico y detalles, alas decoradas con piedras de cristal facetado a modo de plumas. Apoyada sobre base rectangular de mármol oscuro. Conserva etiqueta parcial en el ala.\n\nESTADO:\nBuen estado, cristales íntegros.\n\nNota: la columna de lámpara de bronce estriada que aparece detrás en la foto no forma parte de este lote.",
     "materiales": "Metal plateado/dorado, cristal facetado, base de mármol"
   },
@@ -402,8 +402,49 @@
     "imagenes": ["img/40-1.jpeg"],
     "titulo": "Pequeño Objeto Ornamental de Bronce con Copete Calado y Cuerpo Facetado",
     "categoria": "Decoración / Objetos de Bronce",
-    "precio": "$ A definir",
+    "precio": "USD 50",
     "descripcion": "Pieza decorativa de bronce dorado, compuesta por un copete superior calado en forma de abanico/corona con motivos vegetales, cuerpo central facetado tipo poliedro geométrico, vástago y base circular con motivo grabado. Función original a confirmar (posible remate de lámpara, portavela tipo pica, o elemento de conjunto religioso).\n\nESTADO:\nBuen estado, pátina dorada.",
     "materiales": "Bronce/latón"
+  },
+  {
+    "lote": "41",
+    "imagenes": ["img/41-1.jpeg"],
+    "titulo": "Lámpara de Pie Bronce Columna Estriada 2 Luces",
+    "categoria": "Iluminación",
+    "precio": "USD 100",
+    "descripcion": "Imponente lámpara de pie con fuste de columna estriada en bronce dorado. Dos brazos curvos tipo rococó con portalámparas. Pantalla cónica grande en tela marrón/tabaco. Base ornamentada.",
+    "estilo": "Neoclásico / Imperio",
+    "materiales": "Bronce dorado, Tela"
+  },
+  {
+    "lote": "42",
+    "imagenes": ["img/42-1.jpeg"],
+    "titulo": "Lámpara de Mesa Base Torneada Crema y Pantalla Seda",
+    "categoria": "Iluminación",
+    "precio": "USD 50",
+    "descripcion": "Lámpara de mesa con base torneada en madera o resina color crema/beige, estilo clásico colonial. Pantalla cónica de tela/seda en tono amarillento vintage con ribete oscuro.",
+    "estilo": "Clásico / Colonial",
+    "epoca": "s. XX",
+    "materiales": "Madera/Resina, Tela"
+  },
+  {
+    "lote": "43",
+    "imagenes": ["img/43-1.jpeg"],
+    "titulo": "Óleo sobre Tela: Paisaje Tropical con Rancho y Palmera",
+    "categoria": "Arte / Pintura",
+    "precio": "USD 75",
+    "descripcion": "Pintura al óleo representando escena rural tropical o costera. Rancho de techo de paja, palmera inclinada, dos figuras caminando y velas al fondo. Paleta cálida (tierras, ocres). Firmado ángulo inf. der. Marco madera rojiza con filete dorado.",
+    "estilo": "Costumbrista / Paisajista",
+    "materiales": "Óleo sobre tela, Marco madera"
+  },
+  {
+    "lote": "44",
+    "imagenes": ["img/44-1.jpeg", "img/44-2.jpeg"],
+    "titulo": "Plato Decorativo Dynasty Gallery - Chokin Art (Velero)",
+    "categoria": "Cerámica / Coleccionismo",
+    "precio": "USD 40",
+    "descripcion": "Plato de porcelana fina 'Dynasty Gallery' con borde de oro de 24kt. Centro decorado con técnica Chokin (arte japonés de grabado en cobre y dorado) representando un velero antiguo. Reverso con texto explicativo y sello de colección exclusiva.",
+    "estilo": "Japonés / Coleccionista",
+    "materiales": "Porcelana fina, Oro 24kt, Cobre grabado"
   }
 ]
