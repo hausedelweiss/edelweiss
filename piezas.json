@@ -1,7 +1,13 @@
 [
   {
     "lote": "1",
-    "imagenes": ["img/1-1.jpeg", "img/1-2.jpeg", "img/1-3.jpeg", "img/1-4.jpeg", "img/1-5.jpeg"],
+    "imagenes": [
+      "img/1-1.jpeg",
+      "img/1-2.jpeg",
+      "img/1-3.jpeg",
+      "img/1-4.jpeg",
+      "img/1-5.jpeg"
+    ],
     "titulo": "Armonio Francés H. Christophe & Etienne (c. 1895) - Importado para Barelli e Hijo",
     "categoria": "Instrumentos Musicales / Antigüedades",
     "precio": "USD 650",
@@ -10,7 +16,14 @@
   },
   {
     "lote": "2",
-    "imagenes": ["img/2-1.jpeg", "img/2-2.jpeg", "img/2-3.jpeg", "img/2-4.jpeg", "img/2-5.jpeg", "img/2-6.jpeg"],
+    "imagenes": [
+      "img/2-1.jpeg",
+      "img/2-2.jpeg",
+      "img/2-3.jpeg",
+      "img/2-4.jpeg",
+      "img/2-5.jpeg",
+      "img/2-6.jpeg"
+    ],
     "titulo": "Mesa de Billar Carambola Cazaban & Cía - Set Completo",
     "categoria": "Juegos de Salón / Antigüedades",
     "precio": "USD 2.800",
@@ -19,7 +32,14 @@
   },
   {
     "lote": "3",
-    "imagenes": ["img/3-1.jpeg", "img/3-2.jpeg", "img/3-3.jpeg", "img/3-4.jpeg", "img/3-5.jpeg", "img/3-6.jpeg"],
+    "imagenes": [
+      "img/3-1.jpeg",
+      "img/3-2.jpeg",
+      "img/3-3.jpeg",
+      "img/3-4.jpeg",
+      "img/3-5.jpeg",
+      "img/3-6.jpeg"
+    ],
     "titulo": "Ropero Francés Estilo Luis XV con Frente Bombé y Marquetería",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 450",
@@ -28,11 +48,23 @@
     "estilo": "Luis XV / Francés Provincial",
     "epoca": "Fines siglo XIX - Comienzos siglo XX",
     "materiales": "Madera maciza con marquetería floral, herrajes de bronce/latón",
-    "caracteristicas_especiales": ["Frente bombé curvado", "Marquetería floral", "Patas cabriolé", "Cómoda interior", "Herrajes originales"]
+    "caracteristicas_especiales": [
+      "Frente bombé curvado",
+      "Marquetería floral",
+      "Patas cabriolé",
+      "Cómoda interior",
+      "Herrajes originales"
+    ]
   },
   {
     "lote": "4",
-    "imagenes": ["img/4-1.jpeg", "img/4-2.jpeg", "img/4-3.jpeg", "img/4-4.jpeg", "img/4-5.jpeg"],
+    "imagenes": [
+      "img/4-1.jpeg",
+      "img/4-2.jpeg",
+      "img/4-3.jpeg",
+      "img/4-4.jpeg",
+      "img/4-5.jpeg"
+    ],
     "titulo": "Juego de 17 Copas de Metal Plateado Roveri 80",
     "categoria": "Platería / Cristalería",
     "precio": "USD 250",
@@ -42,7 +74,13 @@
   },
   {
     "lote": "5",
-    "imagenes": ["img/5-1.jpeg", "img/5-2.jpeg", "img/5-3.jpeg", "img/5-4.jpeg", "img/5-5.jpeg"],
+    "imagenes": [
+      "img/5-1.jpeg",
+      "img/5-2.jpeg",
+      "img/5-3.jpeg",
+      "img/5-4.jpeg",
+      "img/5-5.jpeg"
+    ],
     "titulo": "Lámpara de Pie Art Nouveau con Figura Femenina de Bronce",
     "categoria": "Iluminación",
     "precio": "USD 160",
@@ -50,7 +88,10 @@
   },
   {
     "lote": "6",
-    "imagenes": ["img/6-1.jpeg", "img/6-2.jpeg"],
+    "imagenes": [
+      "img/6-1.jpeg",
+      "img/6-2.jpeg"
+    ],
     "titulo": "Lámpara de Pie Antigua – Porcelana China sobre Fuste Ebonizado",
     "categoria": "Iluminación",
     "precio": "USD 150",
@@ -58,7 +99,9 @@
   },
   {
     "lote": "7",
-    "imagenes": ["img/7-1.jpeg"],
+    "imagenes": [
+      "img/7-1.jpeg"
+    ],
     "titulo": "Aparador Vitrina Art Nouveau con Vidrios Curvos",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 200",
@@ -69,7 +112,10 @@
   },
   {
     "lote": "8",
-    "imagenes": ["img/8-1.jpeg", "img/8-2.jpeg"],
+    "imagenes": [
+      "img/8-1.jpeg",
+      "img/8-2.jpeg"
+    ],
     "titulo": "Cartel Promocional Vintage 1978: Superman vs. Muhammad Ali",
     "categoria": "Coleccionables / Cómics",
     "precio": "USD 130",
@@ -78,7 +124,12 @@
   },
   {
     "lote": "9",
-    "imagenes": ["img/9-1.jpeg", "img/9-2.jpeg", "img/9-3.jpeg", "img/9-4.jpeg"],
+    "imagenes": [
+      "img/9-1.jpeg",
+      "img/9-2.jpeg",
+      "img/9-3.jpeg",
+      "img/9-4.jpeg"
+    ],
     "titulo": "Lámpara de Mesa Estilo 'Gone with the Wind' - Vidrio Opalino",
     "categoria": "Iluminación / Antigüedades",
     "precio": "USD 60",
@@ -89,7 +140,9 @@
   },
   {
     "lote": "10",
-    "imagenes": ["img/10-1.jpeg"],
+    "imagenes": [
+      "img/10-1.jpeg"
+    ],
     "titulo": "Botellero y Portacopas de Pared Rústico Tipo Media Rueda",
     "categoria": "Decoración / Bar",
     "precio": "USD 40",
@@ -99,7 +152,9 @@
   },
   {
     "lote": "11",
-    "imagenes": ["img/11-1.jpeg"],
+    "imagenes": [
+      "img/11-1.jpeg"
+    ],
     "titulo": "Lote de 3 Carteles Publicitarios Vintage: Fernet, Gancia, Rouyer",
     "categoria": "Coleccionables / Decoración",
     "precio": "USD 100",
@@ -110,7 +165,9 @@
   },
   {
     "lote": "12",
-    "imagenes": ["img/12-1.jpeg"],
+    "imagenes": [
+      "img/12-1.jpeg"
+    ],
     "titulo": "Estandarte de Cuero Grabado con Mapamundi",
     "categoria": "Decoración / Estilo Colonial",
     "precio": "USD 100",
@@ -120,7 +177,10 @@
   },
   {
     "lote": "13",
-    "imagenes": ["img/13-1.jpeg", "img/13-2.jpeg"],
+    "imagenes": [
+      "img/13-1.jpeg",
+      "img/13-2.jpeg"
+    ],
     "titulo": "Aldaba de Puerta de Hierro Forjado con Llave Ornamental Calada",
     "categoria": "Objetos Criollos / Herrajes",
     "precio": "USD 55",
@@ -131,7 +191,19 @@
   },
   {
     "lote": "14",
-    "imagenes": ["img/14-1.jpeg", "img/14-2.jpeg", "img/14-3.jpeg", "img/14-5.jpeg", "img/14-6.jpeg", "img/14-7.jpeg", "img/14-8.jpeg", "img/14-9.jpeg", "img/14-10.jpeg", "img/14-11.jpeg", "img/14-12.jpeg"],
+    "imagenes": [
+      "img/14-1.jpeg",
+      "img/14-2.jpeg",
+      "img/14-3.jpeg",
+      "img/14-5.jpeg",
+      "img/14-6.jpeg",
+      "img/14-7.jpeg",
+      "img/14-8.jpeg",
+      "img/14-9.jpeg",
+      "img/14-10.jpeg",
+      "img/14-11.jpeg",
+      "img/14-12.jpeg"
+    ],
     "titulo": "Lote de 6 Piezas de Taxidermia: Ciervo, Jabalí, Antílope Blackbuck, Cabra Montés y Aves",
     "categoria": "Taxidermia / Trofeos de Caza",
     "precio": "USD 1500",
@@ -142,7 +214,9 @@
   },
   {
     "lote": "15",
-    "imagenes": ["img/15-1.jpeg"],
+    "imagenes": [
+      "img/15-1.jpeg"
+    ],
     "titulo": "Lote Decorativo: Dallah Árabe, Campana y Objetos de Latón",
     "categoria": "Decoración / Orientalismo",
     "precio": "$ USD 130",
@@ -153,7 +227,9 @@
   },
   {
     "lote": "16",
-    "imagenes": ["img/16-1.jpeg"],
+    "imagenes": [
+      "img/16-1.jpeg"
+    ],
     "titulo": "Jarra Stein de Cerámica con Figuras Rojas Estilo Griego",
     "categoria": "Cerámica / Decoración",
     "precio": "USD 45",
@@ -164,7 +240,12 @@
   },
   {
     "lote": "17",
-    "imagenes": ["img/17-1.jpeg", "img/17-2.jpeg", "img/17-3.jpeg", "img/17-4.jpeg"],
+    "imagenes": [
+      "img/17-1.jpeg",
+      "img/17-2.jpeg",
+      "img/17-3.jpeg",
+      "img/17-4.jpeg"
+    ],
     "titulo": "Lote Judaica y Decorativo: Januquiá, Candelabros Calados, Cuerno y Dama Victoriana",
     "categoria": "Judaica / Decoración",
     "precio": "USD 250",
@@ -175,7 +256,11 @@
   },
   {
     "lote": "18",
-    "imagenes": ["img/18-1.jpeg", "img/18-2.jpeg", "img/18-3.jpeg"],
+    "imagenes": [
+      "img/18-1.jpeg",
+      "img/18-2.jpeg",
+      "img/18-3.jpeg"
+    ],
     "titulo": "Cartel de Chapa Esmaltada: Cognac Rouyer (1801)",
     "categoria": "Coleccionables / Publicidad Vintage",
     "precio": "USD 50",
@@ -186,7 +271,11 @@
   },
   {
     "lote": "19",
-    "imagenes": ["img/19-1.jpeg", "img/19-2.jpeg", "img/19-3.jpeg"],
+    "imagenes": [
+      "img/19-1.jpeg",
+      "img/19-2.jpeg",
+      "img/19-3.jpeg"
+    ],
     "titulo": "Candelabro Girandole de Metal Dorado Rococó (4 Luces)",
     "categoria": "Decoración / Iluminación",
     "precio": "USD 180",
@@ -198,7 +287,10 @@
   },
   {
     "lote": "20",
-    "imagenes": ["img/20-1.jpeg", "img/20-2.jpeg"],
+    "imagenes": [
+      "img/20-1.jpeg",
+      "img/20-2.jpeg"
+    ],
     "titulo": "Pareja de Figuras de Porcelana Bisque: Pescadores Campesinos",
     "categoria": "Porcelana / Escultura",
     "precio": "USD 130",
@@ -209,7 +301,10 @@
   },
   {
     "lote": "21",
-    "imagenes": ["img/21-1.jpeg", "img/21-2.jpeg"],
+    "imagenes": [
+      "img/21-1.jpeg",
+      "img/21-2.jpeg"
+    ],
     "titulo": "Juego de Licorera Decantador Estilo Delft con 6 Vasitos",
     "categoria": "Cerámica / Bar",
     "precio": "USD 180",
@@ -220,7 +315,10 @@
   },
   {
     "lote": "22",
-    "imagenes": ["img/22-1.jpeg", "img/22-2.jpeg"],
+    "imagenes": [
+      "img/22-1.jpeg",
+      "img/22-2.jpeg"
+    ],
     "titulo": "Soporte para Pipa Oriental en Madera y Hueso Tallado",
     "categoria": "Objetos Orientales / Antigüedades",
     "precio": "USD 75",
@@ -231,7 +329,10 @@
   },
   {
     "lote": "23",
-    "imagenes": ["img/23-1.jpeg", "img/23-2.jpeg"],
+    "imagenes": [
+      "img/23-1.jpeg",
+      "img/23-2.jpeg"
+    ],
     "titulo": "Vitrina-Escritorio (Secretaire) de Madera con Marquetería y Vidrio Emplomado",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 450",
@@ -241,7 +342,9 @@
   },
   {
     "lote": "24",
-    "imagenes": ["img/24-1.jpeg"],
+    "imagenes": [
+      "img/24-1.jpeg"
+    ],
     "titulo": "Escultura Tótem Tallada en Madera Oscura - Estilo Tribal/Tiki",
     "categoria": "Arte / Escultura Étnica",
     "precio": "USD 80",
@@ -251,7 +354,10 @@
   },
   {
     "lote": "25",
-    "imagenes": ["img/25-1.jpeg", "img/25-2.jpeg"],
+    "imagenes": [
+      "img/25-1.jpeg",
+      "img/25-2.jpeg"
+    ],
     "titulo": "Cómoda Bombé con Tiradores en Forma de Mano y Patas Bola y Garra",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 350",
@@ -261,7 +367,9 @@
   },
   {
     "lote": "26",
-    "imagenes": ["img/26-1.jpeg"],
+    "imagenes": [
+      "img/26-1.jpeg"
+    ],
     "titulo": "Cuadro Carlos Gardel - Retrato Enmarcado 'Industria Argentina'",
     "categoria": "Decoración / Coleccionables Argentinos",
     "precio": "USD 45",
@@ -270,7 +378,9 @@
   },
   {
     "lote": "27",
-    "imagenes": ["img/27-1.jpeg"],
+    "imagenes": [
+      "img/27-1.jpeg"
+    ],
     "titulo": "Cómoda Tocador Victoriana Eastlake con Espejo y Tapa de Mármol",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 350",
@@ -280,7 +390,9 @@
   },
   {
     "lote": "28",
-    "imagenes": ["img/28-1.jpeg"],
+    "imagenes": [
+      "img/28-1.jpeg"
+    ],
     "titulo": "Ropero de Tres Cuerpos Estilo Luis XV con Espejos Antiguados",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 900",
@@ -290,7 +402,10 @@
   },
   {
     "lote": "29",
-    "imagenes": ["img/29-1.jpeg", "img/29-2.jpeg"],
+    "imagenes": [
+      "img/29-1.jpeg",
+      "img/29-2.jpeg"
+    ],
     "titulo": "Óleo sobre Tela: Calle de Pueblo Español con Arcadas",
     "categoria": "Arte / Pintura",
     "precio": "USD 150",
@@ -300,7 +415,10 @@
   },
   {
     "lote": "30",
-    "imagenes": ["img/30-1.jpeg", "img/30-2.jpeg"],
+    "imagenes": [
+      "img/30-1.jpeg",
+      "img/30-2.jpeg"
+    ],
     "titulo": "Reloj de Pared de Péndulo Visible en Madera Maciza",
     "categoria": "Relojería / Antigüedades",
     "precio": "USD 250",
@@ -310,7 +428,9 @@
   },
   {
     "lote": "31",
-    "imagenes": ["img/31-1.jpeg"],
+    "imagenes": [
+      "img/31-1.jpeg"
+    ],
     "titulo": "Escultura de Atleta Lanzador de Jabalina en Bronce sobre Base de Ónix",
     "categoria": "Escultura / Decoración",
     "precio": "USD 200",
@@ -320,7 +440,9 @@
   },
   {
     "lote": "32",
-    "imagenes": ["img/32-1.jpeg"],
+    "imagenes": [
+      "img/32-1.jpeg"
+    ],
     "titulo": "Espejo y Consola a Juego con Marco de Relieve Rústico (Conchas y Frutos)",
     "categoria": "Muebles / Decoración",
     "precio": "USD 250",
@@ -330,7 +452,9 @@
   },
   {
     "lote": "33",
-    "imagenes": ["img/33-1.jpeg"],
+    "imagenes": [
+      "img/33-1.jpeg"
+    ],
     "titulo": "Sahumador de Bronce con Cuerpo Calado en Forma de Bulbo",
     "categoria": "Decoración / Objetos Religiosos u Orientales",
     "precio": "USD 65",
@@ -340,7 +464,9 @@
   },
   {
     "lote": "34",
-    "imagenes": ["img/34-1.jpeg"],
+    "imagenes": [
+      "img/34-1.jpeg"
+    ],
     "titulo": "Figura Art Déco de Arquero entre Palmeras sobre Base de Mármol",
     "categoria": "Escultura / Art Déco",
     "precio": "USD 150",
@@ -350,7 +476,9 @@
   },
   {
     "lote": "35",
-    "imagenes": ["img/35-1.jpeg"],
+    "imagenes": [
+      "img/35-1.jpeg"
+    ],
     "titulo": "Lámpara de Mesa con Pantalla de Vidrio Esmerilado y Fuste de Ónix Apilado",
     "categoria": "Iluminación / Antigüedades",
     "precio": "USD 110",
@@ -360,7 +488,9 @@
   },
   {
     "lote": "36",
-    "imagenes": ["img/36-1.jpeg"],
+    "imagenes": [
+      "img/36-1.jpeg"
+    ],
     "titulo": "Juego de Comedor: Mesa Ovalada con Tapa de Vidrio y 6 Sillas Torneadas",
     "categoria": "Muebles / Comedor",
     "precio": "USD 700",
@@ -370,7 +500,9 @@
   },
   {
     "lote": "37",
-    "imagenes": ["img/37-1.jpeg"],
+    "imagenes": [
+      "img/37-1.jpeg"
+    ],
     "titulo": "Juego de Living Estilo Luis XV: Sofá, 2 Sillones y Mesa Ratona",
     "categoria": "Muebles / Living",
     "precio": "USD 900",
@@ -380,76 +512,95 @@
   },
   {
     "lote": "38",
-    "imagenes": ["img/38-1.jpeg"],
+    "imagenes": [
+      "img/38-1.jpeg"
+    ],
     "titulo": "Centro de Mesa en Cristal Tallado Azul Cobalto con Asas de Dragón en Bronce",
     "categoria": "Cristalería / Objetos Decorativos",
     "precio": "USD 200",
-    "descripcion": "Bowl/centro de mesa en cristal tallado estilo bohemio, con capa de color azul cobalto tallada a la rueda dejando ver el cristal transparente (motivos de óvalos, rombos y cruces). Montura de bronce dorado con asas laterales en forma de cabeza de dragón alado. Apoya sobre bandeja de bronce dorado a juego, con borde festoneado y pequeñas patas.\n\nESTADO:\nBuen estado, cristal íntegro sin saltaduras visibles.",
+    "descripcion": "Bowl/centro de mesa en cristal tallado estilo bohemio, con capa de color azul cobalto tallada a la rueda (motivos de óvalos, rombos, cruces y damero). Montura de bronce dorado con asas laterales en forma de dragón alado. Apoya sobre bandeja de bronce dorado a juego, de superficie martillada, borde festoneado y pequeñas patas.\n\nESTADO:\nBuen estado. Cristal íntegro sin saltaduras visibles. Bronce con pátina natural.",
     "materiales": "Cristal tallado (bohemio), bronce dorado",
     "estilo": "Bohemio / Victoriano"
   },
   {
     "lote": "39",
-    "imagenes": ["img/39-1.jpeg"],
+    "imagenes": [
+      "img/39-1.jpeg"
+    ],
     "titulo": "Figura de Cisne Decorativo con Alas de Cristal Facetado",
     "categoria": "Decoración / Objetos de Colección",
     "precio": "USD 70",
-    "descripcion": "Pequeña figura de cisne en metal plateado con acabado dorado en pico y detalles, alas decoradas con piedras de cristal facetado a modo de plumas. Apoyada sobre base rectangular de mármol oscuro. Conserva etiqueta parcial en el ala.\n\nESTADO:\nBuen estado, cristales íntegros.\n\nNota: la columna de lámpara de bronce estriada que aparece detrás en la foto no forma parte de este lote.",
-    "materiales": "Metal plateado/dorado, cristal facetado, base de mármol"
+    "descripcion": "Pequeña figura de cisne en metal dorado/bronceado, con alas abiertas decoradas con cristales facetados a modo de plumas. Pico y detalles en tono dorado. Apoyada sobre base rectangular de mármol oscuro. Conserva etiqueta parcial en el ala.\n\nESTADO:\nBuen estado. Cristales íntegros.",
+    "materiales": "Metal dorado/bronceado, cristal facetado, base de mármol"
   },
   {
     "lote": "40",
-    "imagenes": ["img/40-1.jpeg"],
+    "imagenes": [
+      "img/40-1.jpeg"
+    ],
     "titulo": "Pequeño Objeto Ornamental de Bronce con Copete Calado y Cuerpo Facetado",
     "categoria": "Decoración / Objetos de Bronce",
     "precio": "USD 50",
-    "descripcion": "Pieza decorativa de bronce dorado, compuesta por un copete superior calado en forma de abanico/corona con motivos vegetales, cuerpo central facetado tipo poliedro geométrico, vástago y base circular con motivo grabado. Función original a confirmar (posible remate de lámpara, portavela tipo pica, o elemento de conjunto religioso).\n\nESTADO:\nBuen estado, pátina dorada.",
+    "descripcion": "Pieza decorativa de bronce dorado. Copete superior calado en forma de abanico/corona con motivos vegetales y centrales. Cuerpo central facetado tipo poliedro geométrico, sobre vástago y base circular con motivo grabado.\n\nFunción original a confirmar (posible remate de lámpara, elemento de conjunto o pieza ornamental independiente).\n\nESTADO:\nBuen estado. Pátina dorada original.",
     "materiales": "Bronce/latón"
   },
   {
     "lote": "41",
-    "imagenes": ["img/41-1.jpeg"],
+    "imagenes": [
+      "img/41-1.jpeg"
+    ],
     "titulo": "Lámpara de Pie Bronce Columna Estriada 2 Luces",
     "categoria": "Iluminación",
     "precio": "USD 100",
-    "descripcion": "Imponente lámpara de pie con fuste de columna estriada en bronce dorado. Dos brazos curvos tipo rococó con portalámparas. Pantalla cónica grande en tela marrón/tabaco. Base ornamentada.",
+    "descripcion": "Lámpara de pie con fuste de columna estriada en bronce dorado. Dos brazos curvos tipo rococó con portalámparas. Pantalla cónica grande en tela marrón/tabaco. Base circular ornamentada.\n\nESTADO:\nBuen estado general. Pantalla con uso normal.",
     "estilo": "Neoclásico / Imperio",
-    "materiales": "Bronce dorado, Tela"
+    "materiales": "Bronce dorado, tela"
   },
   {
     "lote": "42",
-    "imagenes": ["img/42-1.jpeg"],
+    "imagenes": [
+      "img/42-1.jpeg"
+    ],
     "titulo": "Lámpara de Mesa Base Torneada Crema y Pantalla Seda",
     "categoria": "Iluminación",
     "precio": "USD 50",
-    "descripcion": "Lámpara de mesa con base torneada en madera o resina color crema/beige, estilo clásico colonial. Pantalla cónica de tela/seda en tono amarillento vintage con ribete oscuro.",
+    "descripcion": "Lámpara de mesa con base torneada en acabado crema/marfil brillante (madera o resina), estilo clásico. Pantalla cónica de tela en tono crema/amarillento con ribete oscuro.\n\nESTADO:\nBuen estado. Pantalla con leve amarilleo propio del tiempo.",
     "estilo": "Clásico / Colonial",
     "epoca": "s. XX",
-    "materiales": "Madera/Resina, Tela"
+    "materiales": "Madera/resina, tela"
   },
   {
     "lote": "43",
-    "imagenes": ["img/43-1.jpeg"],
+    "imagenes": [
+      "img/43-1.jpeg"
+    ],
     "titulo": "Óleo sobre Tela: Paisaje Tropical con Rancho y Palmera",
     "categoria": "Arte / Pintura",
     "precio": "USD 75",
-    "descripcion": "Pintura al óleo representando escena rural tropical o costera. Rancho de techo de paja, palmera inclinada, dos figuras caminando y velas al fondo. Paleta cálida (tierras, ocres). Firmado ángulo inf. der. Marco madera rojiza con filete dorado.",
+    "descripcion": "Óleo sobre tela. Escena rural tropical/costera: rancho de techo de paja, palmera inclinada, dos figuras caminando y velas al fondo. Paleta cálida en tierras y ocres. Firmado en el ángulo inferior derecho. Marco de madera rojiza con filete dorado y passe-partout crema.\n\nESTADO:\nBuen estado de conservación. Colores estables.",
     "estilo": "Costumbrista / Paisajista",
-    "materiales": "Óleo sobre tela, Marco madera"
+    "materiales": "Óleo sobre tela, marco de madera"
   },
   {
     "lote": "44",
-    "imagenes": ["img/44-1.jpeg", "img/44-2.jpeg"],
+    "imagenes": [
+      "img/44-1.jpeg",
+      "img/44-2.jpeg"
+    ],
     "titulo": "Plato Decorativo Dynasty Gallery - Chokin Art (Velero)",
     "categoria": "Cerámica / Coleccionismo",
     "precio": "USD 40",
-    "descripcion": "Plato de porcelana fina 'Dynasty Gallery' con borde de oro de 24kt. Centro decorado con técnica Chokin (arte japonés de grabado en cobre y dorado) representando un velero antiguo. Reverso con texto explicativo y sello de colección exclusiva.",
+    "descripcion": "Plato de porcelana fina Dynasty Gallery con borde de oro de 24kt. Centro decorado con técnica Chokin (arte japonés de grabado en cobre y dorado) representando un velero antiguo. Reverso con sello 'Original Chokin Collection – Exclusive Designs', marca Dynasty y texto explicativo sobre el arte Chokin.\n\nESTADO:\nExcelente estado. Sin saltaduras ni desgaste del oro.",
     "estilo": "Japonés / Coleccionista",
-    "materiales": "Porcelana fina, Oro 24kt, Cobre grabado"
+    "materiales": "Porcelana fina, oro 24kt, cobre grabado",
+    "marca": "Dynasty Gallery – Chokin Collection"
   },
   {
     "lote": "45",
-    "imagenes": ["img/45-1.jpeg", "img/45-2.jpeg"],
+    "imagenes": [
+      "img/45-1.jpeg",
+      "img/45-2.jpeg"
+    ],
     "titulo": "Par de Raquetas de Nieve Antiguas (Snowshoes) con Armazón de Madera y Entrelazado",
     "categoria": "Coleccionables / Deportes / Étnico",
     "precio": "USD 120",
@@ -460,33 +611,42 @@
   },
   {
     "lote": "46",
-    "imagenes": ["img/46-1.jpeg"],
+    "imagenes": [
+      "img/46-1.jpeg"
+    ],
     "titulo": "Mesa de Luz / Cómoda Bombé Oscura con Cajones y Puertas Laterales",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 180",
-    "descripcion": "Elegante mesa de luz o pequeña cómoda de estilo bombé (frente curvado) en madera oscura con chapas de raíz (burl). Presenta dos puertas laterales y tres cajones centrales superpuestos con tiradores de metal. Zócalo inferior tallado con motivos de roleos y patas tipo bola/garra o de tipo 'claw & ball' estilizadas.\n\nCARACTERÍSTICAS:\n- Frente bombé característico.\n- Chapas de madera de raíz en puertas y cajones.\n- Herrajes originales.\n- Tapa superior lisa (en la foto se ve una lámpara de porcelana blanca de ambientación, no incluida).\n\nESTADO:\nBuen estado general. Pátina oscura uniforme. Ideal como mesa de luz, cómoda auxiliar o pieza de ambientación clásica.",
+    "descripcion": "Elegante mesa de luz o pequeña cómoda de estilo bombé (frente curvado) en madera oscura con chapas de raíz (burl). Presenta dos puertas laterales y tres cajones centrales superpuestos con tiradores de metal. Zócalo inferior tallado con motivos de roleos y patas tipo bola/garra.\n\nCARACTERÍSTICAS:\n- Frente bombé característico.\n- Chapas de madera de raíz en puertas y cajones.\n- Herrajes originales.\n- Tapa superior lisa (la lámpara de porcelana blanca de la foto es de ambientación, no incluida).\n\nESTADO:\nBuen estado general. Pátina oscura uniforme. Ideal como mesa de luz o cómoda auxiliar.",
     "estilo": "Bombé / Inglés o Francés Revival",
     "epoca": "Primera mitad siglo XX",
     "materiales": "Madera enchapada en raíz, herrajes de metal"
   },
   {
     "lote": "47",
-    "imagenes": ["img/47-1.jpeg", "img/47-2.jpeg", "img/47-3.jpeg"],
+    "imagenes": [
+      "img/47-1.jpeg",
+      "img/47-2.jpeg",
+      "img/47-3.jpeg"
+    ],
     "titulo": "Sillón de Brazos Tallado con Escudo, Corona y Águila",
     "categoria": "Muebles / Antigüedades",
     "precio": "USD 280",
-    "descripcion": "Imponente sillón de brazos en madera tallada, de alto respaldo. El remate superior presenta un escudo heráldico romboidal flanqueado por ramas de laurel, coronado por una corona y un águila con las alas extendidas. El respaldo central tiene forma de escudo alargado con franjas talladas en relieve. Brazos rectos con terminaciones decorativas y asiento tapizado en tela o cuero verde oscuro con borlado perimetral.\n\nCARACTERÍSTICAS:\n- Talla de alto relieve en el respaldo (escudo + corona + águila).\n- Estructura sólida de madera oscura.\n- Asiento con tapizado verde oscuro y clavos o ribete decorativo.\n\nESTADO:\nBuen estado estructural. Madera con pátina original. Tapizado en buen estado general. Pieza de fuerte carácter decorativo e histórico.",
+    "descripcion": "Imponente sillón de brazos en madera tallada, de alto respaldo. El remate superior presenta un escudo heráldico romboidal flanqueado por ramas de laurel, coronado por una corona y un águila con las alas extendidas. El respaldo central tiene forma de escudo alargado con franjas talladas en relieve. Brazos rectos con terminaciones decorativas y asiento tapizado en tela o cuero verde oscuro con borlado perimetral.\n\nCARACTERÍSTICAS:\n- Talla de alto relieve en el respaldo (escudo + corona + águila).\n- Estructura sólida de madera oscura.\n- Asiento con tapizado verde oscuro y ribete decorativo.\n\nESTADO:\nBuen estado estructural. Madera con pátina original. Tapizado en buen estado general. Pieza de fuerte carácter decorativo e histórico.",
     "estilo": "Neoclásico / Heráldico / Académico",
     "epoca": "Fines siglo XIX - Principios siglo XX",
     "materiales": "Madera tallada, tapizado textil/cuero"
   },
   {
     "lote": "48",
-    "imagenes": ["img/48-1.jpeg", "img/48-2.jpeg"],
+    "imagenes": [
+      "img/48-1.jpeg",
+      "img/48-2.jpeg"
+    ],
     "titulo": "Par de Diplomas Italianos Enmarcados – Medalla de la Guerra 1915-1918 y Orden de Vittorio Veneto",
     "categoria": "Documentos Históricos / Coleccionismo",
     "precio": "USD 150",
-    "descripcion": "Conjunto de dos diplomas oficiales italianos enmarcados, pertenecientes a De Bella Antonio di Carlo:\n\n1) Diploma del Ministro della Guerra que autoriza a ostentar la Medaglia istituita a ricordo della Guerra MCMXV-MCMXVIII (Medalla conmemorativa de la Primera Guerra Mundial). Firmado por el Ministro (aparece la firma de Mussolini). Roma, año IX de la Era Fascista. Ilustración Art Nouveau con figura alegórica y arquitectura.\n\n2) Diploma del Presidente della Repubblica como Capo dell'Ordine di Vittorio Veneto, que confiere la onorificenza de Cavaliere dell'Ordine di Vittorio Veneto (Ley de 18 de marzo de 1968). Firmado por el Presidente del Consiglio dell'Ordine.\n\nESTADO:\nDocumentos originales con signos de edad (manchas, leve deterioro del papel). Marcos de madera sencillos con passe-partout azul. Piezas de interés histórico y coleccionable.",
+    "descripcion": "Conjunto de dos diplomas oficiales italianos enmarcados, pertenecientes a De Bella Antonio di Carlo:\n\n1) Diploma del Ministro della Guerra que autoriza a ostentar la Medaglia istituita a ricordo della Guerra MCMXV-MCMXVIII (Medalla conmemorativa de la Primera Guerra Mundial). Firmado por el Ministro (aparece la firma de Mussolini). Roma, año IX de la Era Fascista. Ilustración Art Nouveau con figura alegórica y arquitectura.\n\n2) Diploma del Presidente della Repubblica como Capo dell'Ordine di Vittorio Veneto, que confiere la onorificenza de Cavaliere dell'Ordine di Vittorio Veneto (Ley de 18 de marzo de 1968).\n\nESTADO:\nDocumentos originales con signos de edad (manchas, leve deterioro del papel). Marcos de madera sencillos con passe-partout azul. Piezas de interés histórico y coleccionable.",
     "materiales": "Papel, tinta, marco de madera",
     "estilo": "Documento oficial italiano",
     "epoca": "1920s (diploma de guerra) y posterior a 1968 (Orden Vittorio Veneto)"
