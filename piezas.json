@@ -491,23 +491,23 @@
     "imagenes": [
       "img/36-1.jpeg"
     ],
-    "titulo": "Juego de Comedor: Mesa Ovalada con Tapa de Vidrio y 6 Sillas Torneadas",
+    "titulo": "Juego de Comedor: Mesa Ovalada Tallada con Tapa de Vidrio y 6 Sillas de Balaustres",
     "categoria": "Muebles / Comedor",
-    "precio": "USD 700",
-    "descripcion": "Mesa de comedor ovalada en madera maciza tallada, con patas cabriolé y pie tipo garra, tapa protegida con vidrio. Incluye 6 sillas a juego con respaldo de balaustres torneados (estilo colonial/jacobino), asiento tapizado en tela floral.\n\nESTADO:\nBuen estado general, vidrio protector íntegro.\n\nNota: el bowl de porcelana azul y blanca con soporte dorado que se ve de centro de mesa es de ambientación, no incluido.",
-    "materiales": "Madera maciza, vidrio, tapizado textil",
-    "estilo": "Colonial / Jacobino Revival"
+    "precio": "USD 750",
+    "descripcion": "Completo juego de comedor de estilo colonial / jacobino.\n\nMESA:\n- Forma ovalada en madera maciza oscura.\n- Faldón tallado con motivos decorativos.\n- Patas cabriolé terminadas en pie tipo garra (ball & claw).\n- Tapa protegida con vidrio de seguridad.\n\nSILLAS (x6):\n- Respaldo de balaustres torneados (estilo colonial inglés / jacobino).\n- Remate superior calado con formas onduladas.\n- Asientos tapizados en tela floral clara.\n- Estructura de madera a juego con la mesa.\n\nESTADO:\nBuen estado general. Estructura firme. Vidrio protector íntegro. Tapizado de sillas con uso normal.\n\nNota: el bowl de porcelana azul y blanca con soporte dorado que se ve como centro de mesa es de ambientación y no está incluido en el lote.",
+    "materiales": "Madera maciza, vidrio, tela",
+    "estilo": "Colonial / Jacobino"
   },
   {
     "lote": "37",
     "imagenes": [
       "img/37-1.jpeg"
     ],
-    "titulo": "Juego de Living Estilo Luis XV: Sofá, 2 Sillones y Mesa Ratona",
+    "titulo": "Juego de Living Estilo Luis XV: Sofá, 2 Sillones Bergère y Mesa Ratona de Mármol",
     "categoria": "Muebles / Living",
-    "precio": "USD 900",
-    "descripcion": "Conjunto de living tapizado estilo Luis XV/Provenzal, en terciopelo marrón con capitoné (botonado) en los respaldos. Incluye:\n- 1 sofá de 3 cuerpos.\n- 2 sillones (bergère) a juego.\n- 1 mesa ratona (mesa de centro) con tapa de mármol y base de madera tallada.\n\nESTADO:\nBuen estado general de tapizado y estructura de madera.\n\nNota: las lámparas de pie, la mesa auxiliar lateral y los cuadros que se ven en la foto de ambientación no forman parte de este lote.",
-    "materiales": "Madera tallada, tapizado en terciopelo, tapa de mármol (mesa ratona)",
+    "precio": "USD 950",
+    "descripcion": "Elegante conjunto de living de estilo Luis XV / Provenzal.\n\nCOMPOSICIÓN:\n- 1 sofá de 3 cuerpos con respaldo capitoné (botonado) y almohadones decorativos.\n- 2 sillones bergère a juego, también con capitoné y brazos acolchados.\n- 1 mesa ratona (mesa de centro) con tapa de mármol blanco veteado y base de madera tallada con patas cabriolé.\n\nTapizado en terciopelo / pana marrón chocolate. Estructura de madera tallada con molduras y patas curvas características del estilo.\n\nESTADO:\nBuen estado general de estructura y tapizado. Mármol de la mesa sin roturas visibles. Conjunto listo para usar.\n\nNota: las lámparas de pie, mesitas auxiliares, cuadros y demás objetos de ambientación que se ven en la foto no forman parte de este lote.",
+    "materiales": "Madera tallada, terciopelo/pana, mármol",
     "estilo": "Luis XV / Provenzal"
   },
   {
@@ -593,75 +593,5 @@
     "descripcion": "Plato de porcelana fina 'Dynasty Gallery' con borde de oro de 24kt. Centro decorado con técnica Chokin (arte japonés de grabado en cobre y dorado) representando un velero antiguo. Reverso con texto explicativo y sello de colección exclusiva.",
     "estilo": "Japonés / Coleccionista",
     "materiales": "Porcelana fina, Oro 24kt, Cobre grabado"
-  },
-  {
-    "lote": "45",
-    "imagenes": [
-      "img/45-1.jpeg",
-      "img/45-2.jpeg"
-    ],
-    "titulo": "Par de Raquetas de Nieve Antiguas (Snowshoes) con Armazón de Madera y Entrelazado",
-    "categoria": "Coleccionables / Deportes / Étnico",
-    "precio": "USD 120",
-    "descripcion": "Par de raquetas de nieve tradicionales (snowshoes) de estructura ovalada en madera curvada. Presentan entrelazado de cuerda/cuero crudo en forma de red y superficie de lona o cuero con sistema de ataduras de tela y hebillas metálicas para el calzado.\n\nESTADO:\nPiezas originales con desgaste natural de uso. Ideales para colección o decoración rústica.",
-    "materiales": "Madera, cuerda/cuero, tela, metal",
-    "estilo": "Tradicional / Rústico / Outdoor",
-    "epoca": "Primera mitad siglo XX (estimado)"
-  },
-  {
-    "lote": "46",
-    "imagenes": [
-      "img/46-1.jpeg"
-    ],
-    "titulo": "Mesa de Luz / Cómoda Bombé Oscura con Cajones y Puertas Laterales",
-    "categoria": "Muebles / Antigüedades",
-    "precio": "USD 180",
-    "descripcion": "Elegante mesa de luz o pequeña cómoda de estilo bombé (frente curvado) en madera oscura con chapas de raíz (burl). Dos puertas laterales y tres cajones centrales con tiradores de metal. Zócalo tallado y patas tipo bola/garra.\n\nESTADO:\nBuen estado general. Pátina oscura uniforme.",
-    "estilo": "Bombé / Inglés o Francés Revival",
-    "epoca": "Primera mitad siglo XX",
-    "materiales": "Madera enchapada en raíz, herrajes de metal"
-  },
-  {
-    "lote": "47",
-    "imagenes": [
-      "img/47-1.jpeg",
-      "img/47-2.jpeg",
-      "img/47-3.jpeg"
-    ],
-    "titulo": "Sillón de Brazos Tallado con Escudo, Corona y Águila",
-    "categoria": "Muebles / Antigüedades",
-    "precio": "USD 280",
-    "descripcion": "Imponente sillón de brazos en madera tallada, de alto respaldo. Remate superior con escudo heráldico, corona y águila. Asiento tapizado en verde oscuro.\n\nESTADO:\nBuen estado estructural. Madera con pátina original.",
-    "estilo": "Neoclásico / Heráldico",
-    "epoca": "Fines siglo XIX - Principios siglo XX",
-    "materiales": "Madera tallada, tapizado textil/cuero"
-  },
-  {
-    "lote": "48",
-    "imagenes": [
-      "img/48-1.jpeg",
-      "img/48-2.jpeg"
-    ],
-    "titulo": "Par de Diplomas Italianos Enmarcados – Medalla de la Guerra 1915-1918 y Orden de Vittorio Veneto",
-    "categoria": "Documentos Históricos / Coleccionismo",
-    "precio": "USD 150",
-    "descripcion": "Conjunto de dos diplomas oficiales italianos enmarcados (De Bella Antonio di Carlo):\n1) Diploma del Ministro della Guerra – Medalla de la Guerra 1915-1918 (firma Mussolini).\n2) Diploma Orden de Vittorio Veneto (Cavaliere).\n\nESTADO:\nDocumentos originales con signos de edad. Marcos sencillos.",
-    "materiales": "Papel, tinta, marco de madera",
-    "estilo": "Documento oficial italiano",
-    "epoca": "1920s y posterior a 1968"
-  },
-  {
-    "lote": "49",
-    "imagenes": [
-      "img/49-1.jpeg",
-      "img/49-2.jpeg"
-    ],
-    "titulo": "Grupo Escultórico en Bronce – Pareja Clásica con Paño (sobre pedestal)",
-    "categoria": "Escultura / Decoración",
-    "precio": "USD 220",
-    "descripcion": "Elegante grupo escultórico en bronce de estilo neoclásico / academicista. Representa a una pareja de figuras clásicas (hombre y mujer) parcialmente vestidas con paños, sosteniendo juntos un gran drapeado ondeante sobre sus cabezas. Ambos se apoyan sobre una base rocosa circular con pátina oscura.\n\nSe presenta sobre un pedestal de madera oscura de una puerta, con tirador de bronce en forma de anillo, patas torneadas y tapa superior plana.\n\nESTADO:\nBronce con pátina original oscura, muy bien conservada. Pedestal de madera con pátina y signos de uso propios de la antigüedad. Conjunto de fuerte presencia decorativa.",
-    "materiales": "Bronce y madera",
-    "estilo": "Neoclásico / Academicista",
-    "epoca": "Fines siglo XIX - Principios siglo XX (estimado)"
   }
 ]
