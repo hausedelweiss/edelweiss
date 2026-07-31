@@ -446,5 +446,49 @@
     "descripcion": "Plato de porcelana fina 'Dynasty Gallery' con borde de oro de 24kt. Centro decorado con técnica Chokin (arte japonés de grabado en cobre y dorado) representando un velero antiguo. Reverso con texto explicativo y sello de colección exclusiva.",
     "estilo": "Japonés / Coleccionista",
     "materiales": "Porcelana fina, Oro 24kt, Cobre grabado"
+  },
+  {
+    "lote": "45",
+    "imagenes": ["img/45-1.jpeg", "img/45-2.jpeg"],
+    "titulo": "Par de Raquetas de Nieve Antiguas (Snowshoes) con Armazón de Madera y Entrelazado",
+    "categoria": "Coleccionables / Deportes / Étnico",
+    "precio": "USD 120",
+    "descripcion": "Par de raquetas de nieve tradicionales (snowshoes) de estructura ovalada en madera curvada. Presentan entrelazado de cuerda/cuero crudo en forma de red y superficie de lona o cuero con sistema de ataduras de tela y hebillas metálicas para el calzado.\n\nCARACTERÍSTICAS:\n- Armazón de madera con patina de uso.\n- Sistema de amarre con correas de tela y botones metálicos.\n- Vista superior e inferior (entrelazado completo).\n\nESTADO:\nPiezas originales con desgaste natural de uso. Cuerdas y tela con manchas y marcas del tiempo. Ideales para colección, ambientación o decoración de estilo rústico/montaña.",
+    "materiales": "Madera, cuerda/cuero, tela, metal",
+    "estilo": "Tradicional / Rústico / Outdoor",
+    "epoca": "Primera mitad siglo XX (estimado)"
+  },
+  {
+    "lote": "46",
+    "imagenes": ["img/46-1.jpeg"],
+    "titulo": "Mesa de Luz / Cómoda Bombé Oscura con Cajones y Puertas Laterales",
+    "categoria": "Muebles / Antigüedades",
+    "precio": "USD 180",
+    "descripcion": "Elegante mesa de luz o pequeña cómoda de estilo bombé (frente curvado) en madera oscura con chapas de raíz (burl). Presenta dos puertas laterales y tres cajones centrales superpuestos con tiradores de metal. Zócalo inferior tallado con motivos de roleos y patas tipo bola/garra o de tipo 'claw & ball' estilizadas.\n\nCARACTERÍSTICAS:\n- Frente bombé característico.\n- Chapas de madera de raíz en puertas y cajones.\n- Herrajes originales.\n- Tapa superior lisa (en la foto se ve una lámpara de porcelana blanca de ambientación, no incluida).\n\nESTADO:\nBuen estado general. Pátina oscura uniforme. Ideal como mesa de luz, cómoda auxiliar o pieza de ambientación clásica.",
+    "estilo": "Bombé / Inglés o Francés Revival",
+    "epoca": "Primera mitad siglo XX",
+    "materiales": "Madera enchapada en raíz, herrajes de metal"
+  },
+  {
+    "lote": "47",
+    "imagenes": ["img/47-1.jpeg", "img/47-2.jpeg", "img/47-3.jpeg"],
+    "titulo": "Sillón de Brazos Tallado con Escudo, Corona y Águila",
+    "categoria": "Muebles / Antigüedades",
+    "precio": "USD 280",
+    "descripcion": "Imponente sillón de brazos en madera tallada, de alto respaldo. El remate superior presenta un escudo heráldico romboidal flanqueado por ramas de laurel, coronado por una corona y un águila con las alas extendidas. El respaldo central tiene forma de escudo alargado con franjas talladas en relieve. Brazos rectos con terminaciones decorativas y asiento tapizado en tela o cuero verde oscuro con borlado perimetral.\n\nCARACTERÍSTICAS:\n- Talla de alto relieve en el respaldo (escudo + corona + águila).\n- Estructura sólida de madera oscura.\n- Asiento con tapizado verde oscuro y clavos o ribete decorativo.\n\nESTADO:\nBuen estado estructural. Madera con pátina original. Tapizado en buen estado general. Pieza de fuerte carácter decorativo e histórico.",
+    "estilo": "Neoclásico / Heráldico / Académico",
+    "epoca": "Fines siglo XIX - Principios siglo XX",
+    "materiales": "Madera tallada, tapizado textil/cuero"
+  },
+  {
+    "lote": "48",
+    "imagenes": ["img/48-1.jpeg", "img/48-2.jpeg"],
+    "titulo": "Par de Diplomas Italianos Enmarcados – Medalla de la Guerra 1915-1918 y Orden de Vittorio Veneto",
+    "categoria": "Documentos Históricos / Coleccionismo",
+    "precio": "USD 150",
+    "descripcion": "Conjunto de dos diplomas oficiales italianos enmarcados, pertenecientes a De Bella Antonio di Carlo:\n\n1) Diploma del Ministro della Guerra que autoriza a ostentar la Medaglia istituita a ricordo della Guerra MCMXV-MCMXVIII (Medalla conmemorativa de la Primera Guerra Mundial). Firmado por el Ministro (aparece la firma de Mussolini). Roma, año IX de la Era Fascista. Ilustración Art Nouveau con figura alegórica y arquitectura.\n\n2) Diploma del Presidente della Repubblica como Capo dell'Ordine di Vittorio Veneto, que confiere la onorificenza de Cavaliere dell'Ordine di Vittorio Veneto (Ley de 18 de marzo de 1968). Firmado por el Presidente del Consiglio dell'Ordine.\n\nESTADO:\nDocumentos originales con signos de edad (manchas, leve deterioro del papel). Marcos de madera sencillos con passe-partout azul. Piezas de interés histórico y coleccionable.",
+    "materiales": "Papel, tinta, marco de madera",
+    "estilo": "Documento oficial italiano",
+    "epoca": "1920s (diploma de guerra) y posterior a 1968 (Orden Vittorio Veneto)"
   }
 ]
